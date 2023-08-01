@@ -4,7 +4,7 @@ If a visitor is using a WEI-enabled browser (e.g. Chrome, Edge, Chromium) they w
 The user has to close the warning banner to view the website content.
 
 __How to use:__  
-Just copy the content of _wei_check_ and paste it into your website's source code.
+Just copy the content of _wei_check_ and paste it into the body of your website's source code.
 
 __Possible enhancements:__
 
@@ -17,6 +17,6 @@ Technical:
 Non-technical:
 - [ ] Concise and easy to understand explanation why WEI is bad and you should feel bad, rather than just linking to the FSF.
 - [ ] Make it look more professional, like one of these "you need to deactivate your adblocker" warnings.
-- [ ] **Spread the word, until this is visible on a significant number of websites and even your great-grandma decides to install Firefox.**
+- [ ] Spread the word, until this is visible on a significant number of websites and even your great-grandma decides to install Firefox.
 
 Pull Requests are very welcome! I have no tech background and I'm not quite sure how to implement these enhancements.
