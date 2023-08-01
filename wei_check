@@ -1,4 +1,5 @@
 <!-- START WEI BROWSER WARNING -->
+<!-- https://github.com/eylenburg/wei_warning -->
 
 <div id="wei_warning" style="display: none; position: fixed; top: 0px; left: 0px; z-index; 1000; height: 100%; width: 100%; background-color: darkred; font-size: 16pt; text-align: center; color: white; font-family: sans-serif;">
 
